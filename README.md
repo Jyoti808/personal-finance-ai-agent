@@ -2,7 +2,7 @@
 
 An AI-powered personal finance assistant built with **LangChain**, capable of understanding a user's question in plain English and automatically choosing the right financial calculator to answer it.
 
-👉 [Try the Sarcasm Detection App](https://personal-finance-ai-agent-at7d6qhnqvymapai2xbgv3.streamlit.app/)
+👉 [Try the Personal Finance AI Agent](https://personal-finance-ai-agent-at7d6qhnqvymapai2xbgv3.streamlit.app/)
 
 
 ## 📌 Overview
